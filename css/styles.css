@@ -1,4 +1,17 @@
 /* add your CSS here */
+h1{
+  color:white;
+  text-align: center;
+  font-size:45px;
+  font-weight:500;
+}
+
+body{
+  
+ background-image:url("https://s26.postimg.org/wydrh6oll/491323.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
 
 h3{
 	/*header*/
